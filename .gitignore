@@ -39,3 +39,22 @@
 
 # debug information files
 *.dwo
+
+# build dirs
+cmake-build-*/
+build/
+out/
+
+# CMake generated
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+Testing/
+
+# CLion/JetBrains
+.idea/
+**/.idea/
+
+# macOS
+.DS_Store
