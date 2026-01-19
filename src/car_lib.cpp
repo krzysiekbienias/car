@@ -1,0 +1,1 @@
+// intentionally empty (keeps CLion/CMake happy while project is still header-only)
